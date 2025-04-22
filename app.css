@@ -19,11 +19,16 @@ button{
     max-width: 1200px;
 }
 
+.penna{
+    border:grey 1px solid;
+}
+.cestino{
+    border:grey 1px solid;
+}
 
 
 
-
-/* DEBUF */
+/* DEBUG */
 
 .debug{
     border: 1px solid black;
